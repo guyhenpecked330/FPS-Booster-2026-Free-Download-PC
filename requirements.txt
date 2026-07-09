@@ -1,0 +1,7 @@
+pillow
+opencv-python
+keyboard
+rich
+scipy
+pywin32
+click
